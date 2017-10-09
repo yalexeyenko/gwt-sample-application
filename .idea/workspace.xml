@@ -40,33 +40,9 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/gwt-sample-application/com/mySampleApplication/client/ToolTip$2.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/gwt-sample-application/com/mySampleApplication/client/ToolTip.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/gwt-sample-application/com/mySampleApplication/server/MySampleApplicationServiceImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/gwt_user.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/gwtquery_1_5_beta1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gwt-sample-application.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/gwt-sample-application/com/mySampleApplication/MySampleApplication.gwt.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mySampleApplication/MySampleApplication.gwt.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mySampleApplication/client/CheckValidation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mySampleApplication/client/CustomDatePickerCell.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mySampleApplication/client/CustomDatepickerCell2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mySampleApplication/client/Datepicker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mySampleApplication/client/DatepickerBase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mySampleApplication/client/GWTDateUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mySampleApplication/client/IsRedactor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mySampleApplication/client/LogisticsLocationsDto.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mySampleApplication/client/Messages.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mySampleApplication/client/MySampleApplicationService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mySampleApplication/client/MySampleApplicationServiceAsync.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mySampleApplication/client/Tester.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mySampleApplication/client/ToolTip.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mySampleApplication/server/MySampleApplicationServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/war/MySampleApplication.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/war/MySampleApplication.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/war/WEB-INF/web.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -795,12 +771,20 @@
       <option name="presentableId" value="Default" />
       <updated>1498393590959</updated>
       <workItem from="1498393596152" duration="2983000" />
-      <workItem from="1507373551900" duration="20698000" />
+      <workItem from="1507373551900" duration="20749000" />
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1507515246555</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1507515246555</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23681000" />
+    <option name="totallyTimeSpent" value="23732000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -852,6 +836,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
